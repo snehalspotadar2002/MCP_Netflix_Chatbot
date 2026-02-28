@@ -205,3 +205,6 @@ Built with FastMCP & Streamlit
 ---
 
 **Note**: This is a demonstration project for Netflix app review analysis. For production use, consider adding authentication, rate limiting, and database optimization.
+
+## 🖼️ Workflow Image
+<img width="1402" height="591" alt="Screenshot (3)" src="C:\Users\91952\Pictures\Screenshots\Screenshot 2026-02-28 150444.png" />
